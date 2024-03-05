@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="ЖМЯК" Margin="220,151,276,147" Click="Button_Click"></Button>
     </Grid>
 </Window>
